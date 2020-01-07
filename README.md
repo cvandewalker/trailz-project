@@ -1,4 +1,7 @@
-# Project-What-To-Do
+## Trailz-Project-2.0
+This was my first major group prject for class. There were alot of other things I wanted to change and implement before presenting it, but there just wasn't enough time. This repo is for making changes in my spare time.
+
+# Project-Trailz
 Our first major class project
 
 ## User Story
